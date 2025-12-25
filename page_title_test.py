@@ -24,5 +24,5 @@ async def main():
         print(title)                              
         await browser.close()                                  
 
-# Run the asynchronous example
+# Run the asynchronous script
 asyncio.run(main())
